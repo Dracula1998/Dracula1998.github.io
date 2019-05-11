@@ -184,5 +184,15 @@ while True:
 
 ##### 实验结果
 
+##### ![result_client_1](https://dracula1998.github.io/Security%20Protocol/result_client_1.png)
 
+![result_server_1](https://dracula1998.github.io/Security%20Protocol/result_server_1.png)
+
+![result_client_2](https://dracula1998.github.io/Security%20Protocol/result_client_2.png)
+
+![result_server_2](https://dracula1998.github.io/Security%20Protocol/result_server_2.png)
+
+![result_client_3](https://dracula1998.github.io/Security%20Protocol/result_client_3.png)
+
+![result_server_3](https://dracula1998.github.io/Security%20Protocol/result_server_3.png)
 
