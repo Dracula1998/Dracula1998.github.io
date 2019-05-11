@@ -60,16 +60,24 @@ print(cert.get_extension_count())
 ##### 实验结果
 
 证书版本:             3
+
 证书序列号:           0xa3da427ea4b1aeda
+
 证书中使用的签名算法:  sha1WithRSAEncryption
+
 颁发者:               Chambers of Commerce Root - 2008
+
 有效期从:              2008-08-01 12:29:50
+
 到:                    2038-07-31 12:29:50
+
 证书是否已经过期:       False
+
 公钥长度 4096
+
 公钥:
- -----BEGIN PUBLIC KEY-----
-MIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEArwDLcDcrgFpKOmx4lH2j
+
+ -----BEGIN PUBLIC KEY-----MIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEArwDLcDcrgFpKOmx4lH2j
 fxof9jXVvdvLDURyPiaykFK6YzsoWG+ls22UpvPdZAxV9vbn8iIigF7hYsa2KeGB
 bPK/5X0yalSgMhlZ/h+L1z1ghoUkb+MRs3c+IJY1IWuzCNlwLmT3hJJT1g6wkIqK
 44eNBtO9kA7imaEbhg7amgq7C2FQBlLxnn927MsP0B4Nz5kwPRzERRBYrNbT6Nfl
@@ -81,17 +89,27 @@ sLFrEmkerPtdqcWY6bRbWHq+PaJEOmNZ1Asl3htPveUBns3SKdWfFxkKb78MkNMJ
 X9njijXMeVpNGTeSt8TBra/0eSSasgELsa9clvOAMvtcPZjxoD9K3r6vlC7ZVZoX
 bmCdY2y4Y8mugVwYNeCQu748TzciuX7rz553IaY9OIH7SNoxPSvjifXQtb1+4FDE
 EomzI5oQMYXbrm/vODMYdhECAwEAAQ==
+
 -----END PUBLIC KEY-----
 
 主体信息:
+
 CN : 通用名称  OU : 机构单元名称
+
 O  : 机构名    L  : 地理位置
+
 S  : 州/省名   C  : 国名
+
 C   ——   EU
+
 L   ——   Madrid (see current address at www.camerfirma.com/address)
+
 serialNumber   ——   A82743287
+
 O   ——   AC Camerfirma S.A.
+
 CN   ——   Chambers of Commerce Root - 2008
+
 5
 
 
