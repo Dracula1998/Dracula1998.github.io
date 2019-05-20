@@ -2,5 +2,7 @@
 
 # a blog used to place some stuff
 
-[Security Protocol](/Security Protocol/experiments.md)
+[Security Protocol Experiments](/Security Protocol/experiments.md)
+
+[Security Protocol Note](/Security Protocol/note.md)
 
