@@ -324,7 +324,7 @@ DER（Distinguished Encoding Rules）是ASN.1的一种从抽象标记到具体�
 
 ##### LDAP在PKI中的应用
 
-* 可以在徐福哦应用中提供透明性要求，方便用户使用
+* 可以在许多应用中提供透明性要求，方便用户使用
 * 不依赖底层的数据库系统，方便实现大规模分布式要求
 
 ##### Operational Protocols- FTP and HTTP 
